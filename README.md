@@ -14,3 +14,7 @@ https://github.com/concord/supervisor/blob/6cd24d59aeb0a306ad9803b040d703d9f4578
 https://github.com/michoecho/parquet4seastar/blob/71df8e878f35e9d189141429a4b0ebba140f86eb/tests/column_chunk_writer_test.cc
 https://github.com/fastio/1store/blob/64f928df0ddb665c17a9ab3aa79ddd703de374ce/db/commitlog/commitlog_extensions.hh
 https://github.com/tensorflow/networking/blob/e1c7ae09923293f9cce5eba0a159e75993b793be/third_party/seastar.BUILD
+https://github.com/smfrpc/smf
+https://github.com/shanshanpt/seastar_example
+https://github.com/RanjKuru/turn-server
+https://github.com/arrabyte/bigsort
