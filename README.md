@@ -1,0 +1,16 @@
+https://github.com/ducthangho/imdb/blob/144be294949682cc1abb247dc56c2dfe0e4fafba/core/reactor.hh
+https://github.com/GG36/externallSort/blob/d60316a609db787cde0a7e75daa8fc48a9a73ba8/seastar/CMakeLists.txt
+https://github.com/limbros/ceph-14.2.8/blob/9bf8826e634982f17c8aee94309635450f61c453/ceph-14.2.8/src/seastar/tests/unit/fstream_test.cc
+https://github.com/alibaba/x-deeplearning/blob/04cc0497150920c64b06bb8c314ef89977a3427a/xdl/third_party/seastar/tests/fstream_test.cc
+https://github.com/1608502800/My-X-Deeplearning
+https://github.com/duanjp8617/netstar-project
+https://github.com/utah-scs/nanoservices/blob/4e7d636907e6243d844ece6982eb56eef712c967/include/seastarkv.hh
+https://github.com/utah-scs/shredder/blob/308647b9eed5ebd5fca3520b4fc02655a7dcd1a2/include/seastarkv.hh
+https://github.com/futurewei-cloud/chogori-seastar-rd/blob/46f7d9f74cae2943c1c17de305ceaeee3a2907f7/tests/unit/socket_test.cc
+https://github.com/sumeetchhetri/ffead-cpp/blob/5b326e976304278f9b63e67e93b0851af47ae093/lang-server-backends/c%2B%2B/seastar/SeastarFfeadCppIntf.cpp
+https://github.com/vectorizedio/redpanda/blob/836455e389adde38f71f7a656b9bc0c60cdf096c/src/v/utils/file_io.h
+https://github.com/scylladb/seastar/blob/c0d6e042a31c6165d59a581e5802a3d33c4ba33b/demos/coroutines_demo.cc
+https://github.com/concord/supervisor/blob/6cd24d59aeb0a306ad9803b040d703d9f4578701/meta/playbooks/roles/seastar/tasks/main.yml
+https://github.com/michoecho/parquet4seastar/blob/71df8e878f35e9d189141429a4b0ebba140f86eb/tests/column_chunk_writer_test.cc
+https://github.com/fastio/1store/blob/64f928df0ddb665c17a9ab3aa79ddd703de374ce/db/commitlog/commitlog_extensions.hh
+https://github.com/tensorflow/networking/blob/e1c7ae09923293f9cce5eba0a159e75993b793be/third_party/seastar.BUILD
