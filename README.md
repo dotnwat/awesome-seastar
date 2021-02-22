@@ -1,7 +1,7 @@
 * ceph, crimson https://github.com/ceph/ceph/tree/master/src/crimson
+* k2 https://github.com/futurewei-cloud/chogori-platform
 
 https://github.com/1608502800/My-X-Deeplearning
-https://github.com/duanjp8617/netstar-project
 https://github.com/utah-scs/nanoservices/blob/4e7d636907e6243d844ece6982eb56eef712c967/include/seastarkv.hh
 https://github.com/utah-scs/shredder/blob/308647b9eed5ebd5fca3520b4fc02655a7dcd1a2/include/seastarkv.hh
 https://github.com/sumeetchhetri/ffead-cpp/blob/5b326e976304278f9b63e67e93b0851af47ae093/lang-server-backends/c%2B%2B/seastar/SeastarFfeadCppIntf.cpp
