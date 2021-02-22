@@ -1,5 +1,3 @@
-https://github.com/ducthangho/imdb/blob/144be294949682cc1abb247dc56c2dfe0e4fafba/core/reactor.hh
-https://github.com/GG36/externallSort/blob/d60316a609db787cde0a7e75daa8fc48a9a73ba8/seastar/CMakeLists.txt
 https://github.com/limbros/ceph-14.2.8/blob/9bf8826e634982f17c8aee94309635450f61c453/ceph-14.2.8/src/seastar/tests/unit/fstream_test.cc
 https://github.com/alibaba/x-deeplearning/blob/04cc0497150920c64b06bb8c314ef89977a3427a/xdl/third_party/seastar/tests/fstream_test.cc
 https://github.com/1608502800/My-X-Deeplearning
