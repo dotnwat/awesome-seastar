@@ -1,3 +1,5 @@
+### worth mentioning
+
 * ceph, crimson https://github.com/ceph/ceph/tree/master/src/crimson
 * k2 https://github.com/futurewei-cloud/chogori-platform
 * redpanda https://github.com/vectorizedio/redpanda
@@ -10,6 +12,8 @@
 * cpv-framework: A web framework written in c++ based on seastar framework
 * https://dev.to/cppchedy/rolling-out-your-own-mom-or-how-i-did-it-general-introduction-3j20
 * http://nadav.harel.org.il/seastar/
+
+### evaluating
 
 https://github.com/duanjp8617/netstar-project
 https://github.com/1608502800/My-X-Deeplearning
