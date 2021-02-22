@@ -13,7 +13,7 @@
 * https://dev.to/cppchedy/rolling-out-your-own-mom-or-how-i-did-it-general-introduction-3j20
 * http://nadav.harel.org.il/seastar/
 * https://github.com/scylladb/seastar/blob/master/doc/tutorial.md
-* https://makedist.com/seastar-internals
+* https://makedist.com/projects/seastar-internals
 
 ### evaluating
 
