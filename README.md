@@ -1,12 +1,9 @@
 * ceph, crimson https://github.com/ceph/ceph/tree/master/src/crimson
 
-
-https://github.com/alibaba/x-deeplearning/blob/04cc0497150920c64b06bb8c314ef89977a3427a/xdl/third_party/seastar/tests/fstream_test.cc
 https://github.com/1608502800/My-X-Deeplearning
 https://github.com/duanjp8617/netstar-project
 https://github.com/utah-scs/nanoservices/blob/4e7d636907e6243d844ece6982eb56eef712c967/include/seastarkv.hh
 https://github.com/utah-scs/shredder/blob/308647b9eed5ebd5fca3520b4fc02655a7dcd1a2/include/seastarkv.hh
-https://github.com/futurewei-cloud/chogori-seastar-rd/blob/46f7d9f74cae2943c1c17de305ceaeee3a2907f7/tests/unit/socket_test.cc
 https://github.com/sumeetchhetri/ffead-cpp/blob/5b326e976304278f9b63e67e93b0851af47ae093/lang-server-backends/c%2B%2B/seastar/SeastarFfeadCppIntf.cpp
 https://github.com/vectorizedio/redpanda/blob/836455e389adde38f71f7a656b9bc0c60cdf096c/src/v/utils/file_io.h
 https://github.com/scylladb/seastar/blob/c0d6e042a31c6165d59a581e5802a3d33c4ba33b/demos/coroutines_demo.cc
