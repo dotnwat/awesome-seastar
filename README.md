@@ -29,3 +29,4 @@
 * https://github.com/arrabyte/bigsort
 * https://github.com/utah-scs/splinter
 * lightbits
+* Pedis
