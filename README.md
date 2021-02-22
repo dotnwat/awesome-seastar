@@ -12,6 +12,7 @@
 * cpv-framework: A web framework written in c++ based on seastar framework
 * https://dev.to/cppchedy/rolling-out-your-own-mom-or-how-i-did-it-general-introduction-3j20
 * http://nadav.harel.org.il/seastar/
+* https://github.com/scylladb/seastar/blob/master/doc/tutorial.md
 
 ### evaluating
 
