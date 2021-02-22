@@ -6,6 +6,8 @@
 * https://github.com/scylladb/seastar
 * https://github.com/scylladb/scylla
 * https://github.com/michoecho/parquet4seastar
+* cpv-cql-driver: C++ driver for Cassandra/Scylla based on seastar framework
+* cpv-framework: A web framework written in c++ based on seastar framework
 
 https://github.com/duanjp8617/netstar-project
 https://github.com/1608502800/My-X-Deeplearning
