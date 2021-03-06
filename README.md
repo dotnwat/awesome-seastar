@@ -87,3 +87,15 @@ These articles are written by [Noah Watkins](https://twitter.com/dotnwat), a Pri
 * https://github.com/utah-scs/splinter
 * lightbits
 * Pedis
+
+## Contributors
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://twitter.com/cppchedy"><img src="https://avatars.githubusercontent.com/u/18627131?s=100&v=3" width="100px;" alt=""/><br/><sub><b>Chedy Najjar</b></sub></a></td>
+  </tr>
+</table>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
