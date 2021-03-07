@@ -6,7 +6,6 @@
 
 ## Content
 
-- [Content](#content)
 - [Projects](#projects)
 	- [Seastar](#seastar)
 	- [Scylladb](#scylladb)
@@ -20,12 +19,6 @@
 	- [worth mentioning](#worth-mentioning)
 	- [evaluating](#evaluating)
 
-
-
-## Projects
-
-### Seastar
-
 [Seastar](http://seastar.io/) is an open source c++ framework designed to help build highly-performant server application. It's used by [ScyllaDb](https://www.scylladb.com/), a high-performance NoSQL Database.
 
 One of the key feature of Seastar is it's event-driven nature which makes it easy for it's user to write non-blocking, asynchronous code. Moreover, Seastar architecture is based on the following points:
@@ -38,16 +31,39 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 
 - [Messaging passing](http://seastar.io/message-passing/) : A design for sharing information between CPU cores without time-consuming locking.
 
-### Scylladb
-[Scylladb](https://github.com/scylladb/scylla) is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB. It's built on top of Seastar.
+## Projects
+
+### Ceph
+https://github.com/ceph/ceph/tree/master/src/crimson
+
+### CPV web framework
+https://github.com/cpv-project/cpv-framework
+
+### CPV CQL driver
+https://github.com/cpv-project/cpv-cql-driver
+
+### K2
+k2 https://github.com/futurewei-cloud/chogori-platform
+
+### Parquet4Seastar
+https://github.com/michoecho/parquet4seastar
+
+### Pedis
+https://github.com/fastio/1store
 
 ### Redpanda
 [Redpanda](https://github.com/vectorizedio/redpanda/) is a streaming platform for mission critical workloads. Kafka® compatible, No Zookeeper®, no JVM, and no code changes required. Use all your favorite open source tooling - 10x faster.
+
+### Scylladb
+[Scylladb](https://github.com/scylladb/scylla) is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB. It's built on top of Seastar.
 
 ### SMF RPC
 [SMF](https://github.com/smfrpc/smf) is a new RPC framework built for microseconds latencies using the seastar framework.
 
 ## Resource
+
+### Official tutorial
+https://github.com/scylladb/seastar/blob/master/doc/tutorial.md
 
 ### Asynchronous Programming with Seastar
 [Asynchronous Programming with Seastar](http://nadav.harel.org.il/seastar/) is a series of tutorials that covers almost all Seastar compnents along with specific ways to debug seastar programs. Another important point about this series is that it's written by two maintainers of Seastar, Nadav Har’El and Avi Kivity.
@@ -62,16 +78,6 @@ These articles are written by [Noah Watkins](https://twitter.com/dotnwat), a Pri
 
 ## Unprocessed
 
-### worth mentioning
-
-* ceph, crimson https://github.com/ceph/ceph/tree/master/src/crimson
-* k2 https://github.com/futurewei-cloud/chogori-platform
-* https://github.com/fastio/1store
-* https://github.com/michoecho/parquet4seastar
-* cpv-cql-driver: C++ driver for Cassandra/Scylla based on seastar framework
-* cpv-framework: A web framework written in c++ based on seastar framework
-* https://github.com/scylladb/seastar/blob/master/doc/tutorial.md
-
 ### evaluating
 
 * https://github.com/duanjp8617/netstar-project
@@ -82,11 +88,8 @@ These articles are written by [Noah Watkins](https://twitter.com/dotnwat), a Pri
 * https://github.com/concord/supervisor/blob/6cd24d59aeb0a306ad9803b040d703d9f4578701/meta/playbooks/roles/seastar/tasks/main.yml
 * https://github.com/tensorflow/networking/blob/e1c7ae09923293f9cce5eba0a159e75993b793be/third_party/seastar.BUILD
 * https://github.com/shanshanpt/seastar_example
-* https://github.com/RanjKuru/turn-server
-* https://github.com/arrabyte/bigsort
 * https://github.com/utah-scs/splinter
 * lightbits
-* Pedis
 
 ## Contributors
 
