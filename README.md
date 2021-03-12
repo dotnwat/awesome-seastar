@@ -15,9 +15,6 @@
 	- [Asynchronous Programming with Seastar](#asynchronous-programming-with-seastar)
 	- [Seastar internals](#seastar-internals)
 	- [Build a message-oriented middleware using seastar](#build-a-message-oriented-middleware-using-seastar)
-- [Unprocessed](#unprocessed)
-	- [worth mentioning](#worth-mentioning)
-	- [evaluating](#evaluating)
 
 [Seastar](http://seastar.io/) is an open source c++ framework designed to help build highly-performant server application. It's used by [ScyllaDb](https://www.scylladb.com/), a high-performance NoSQL Database.
 
@@ -82,17 +79,6 @@ These articles are written by [Noah Watkins](https://twitter.com/dotnwat), a Pri
 
 ### Build a message-oriented middleware using seastar
 [Rolling your own MOM or how I did it](https://dev.to/cppchedy/rolling-out-your-own-mom-or-how-i-did-it-general-introduction-3j20) is a series written to document the architecture and messaging model of the message-oriented middleware MOZA writting using c++17 and the framework seastar.
-
-## Unprocessed
-
-### evaluating
-
-* https://github.com/duanjp8617/netstar-project
-* https://github.com/1608502800/My-X-Deeplearning
-* https://github.com/utah-scs/nanoservices/blob/4e7d636907e6243d844ece6982eb56eef712c967/include/seastarkv.hh
-* https://github.com/utah-scs/shredder/blob/308647b9eed5ebd5fca3520b4fc02655a7dcd1a2/include/seastarkv.hh
-* https://github.com/utah-scs/splinter
-* lightbits
 
 ## Contributors
 
