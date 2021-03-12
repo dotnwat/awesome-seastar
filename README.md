@@ -62,6 +62,7 @@ https://github.com/fastio/1store
 ### Shredder
 
 https://github.com/utah-scs/shredder
+https://github.com/utah-scs/nanoservices
 
 ### SMF RPC
 [SMF](https://github.com/smfrpc/smf) is a new RPC framework built for microseconds latencies using the seastar framework.
