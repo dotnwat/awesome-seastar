@@ -50,9 +50,7 @@ https://github.com/michoecho/parquet4seastar
 ### Pedis
 https://github.com/fastio/1store
 
-## [Redpanda](https://github.com/vectorizedio/redpanda/)
-
-A drop-in replacement storage engine for Apache Kafka. It's written entirely in C++ with Seastar and designed to take advantage of modern hardware.
+* [Redpanda](https://github.com/vectorizedio/redpanda/) -- A drop-in replacement storage engine for Apache Kafka. It's written entirely in C++ with Seastar and designed to take advantage of modern hardware.
 
 ### Scylladb
 [Scylladb](https://github.com/scylladb/scylla) is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB. It's built on top of Seastar.
