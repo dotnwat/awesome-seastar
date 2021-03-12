@@ -39,13 +39,10 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 * [K2](https://github.com/futurewei-cloud/chogori-platform)
 * [Parquet4Seastar](https://github.com/michoecho/parquet4seastar)
 * [Pedis](https://github.com/fastio/1store)
-* [Redpanda](https://github.com/vectorizedio/redpanda/) is a drop-in replacement storage engine for Apache Kafka. It's written entirely in C++ with Seastar and designed to take advantage of modern hardware.
-* [Scylladb](https://github.com/scylladb/scylla) is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB. It's built on top of Seastar.
-
-### Shredder
-
-https://github.com/utah-scs/shredder
-https://github.com/utah-scs/nanoservices
+* [Redpanda](https://github.com/vectorizedio/redpanda/) drop-in replacement Apache Kafka designed for modern hardware
+* [Scylladb](https://github.com/scylladb/scylla) API-compatible with Apache Cassandra and Amazon DynamoDB
+* [Shredder](https://github.com/utah-scs/shredder)
+* [Nanoservices](https://github.com/utah-scs/nanoservices)
 
 ### SMF RPC
 [SMF](https://github.com/smfrpc/smf) is a new RPC framework built for microseconds latencies using the seastar framework.
