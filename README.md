@@ -28,7 +28,8 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 
 - [Messaging passing](http://seastar.io/message-passing/) : A design for sharing information between CPU cores without time-consuming locking.
 
-# Projects
+## Projects
+*Systems and projects using Seastar*
 
 * [Ceph](https://github.com/ceph/ceph)
 ** https://github.com/ceph/ceph/tree/master/src/crimson
