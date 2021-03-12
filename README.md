@@ -32,8 +32,8 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 
 ### Ceph
 
-
-https://github.com/ceph/ceph/tree/master/src/crimson
+* https://github.com/ceph/ceph/tree/master/src/crimson
+* https://www.usenix.org/conference/vault20/presentation/just
 
 ### CPV web framework
 https://github.com/cpv-project/cpv-framework
