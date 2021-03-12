@@ -34,6 +34,8 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 ## Projects
 
 ### Ceph
+
+
 https://github.com/ceph/ceph/tree/master/src/crimson
 
 ### CPV web framework
@@ -56,6 +58,10 @@ https://github.com/fastio/1store
 
 ### Scylladb
 [Scylladb](https://github.com/scylladb/scylla) is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB. It's built on top of Seastar.
+
+### Shredder
+
+https://github.com/utah-scs/shredder
 
 ### SMF RPC
 [SMF](https://github.com/smfrpc/smf) is a new RPC framework built for microseconds latencies using the seastar framework.
@@ -84,10 +90,6 @@ These articles are written by [Noah Watkins](https://twitter.com/dotnwat), a Pri
 * https://github.com/1608502800/My-X-Deeplearning
 * https://github.com/utah-scs/nanoservices/blob/4e7d636907e6243d844ece6982eb56eef712c967/include/seastarkv.hh
 * https://github.com/utah-scs/shredder/blob/308647b9eed5ebd5fca3520b4fc02655a7dcd1a2/include/seastarkv.hh
-* https://github.com/sumeetchhetri/ffead-cpp/blob/5b326e976304278f9b63e67e93b0851af47ae093/lang-server-backends/c%2B%2B/seastar/SeastarFfeadCppIntf.cpp
-* https://github.com/concord/supervisor/blob/6cd24d59aeb0a306ad9803b040d703d9f4578701/meta/playbooks/roles/seastar/tasks/main.yml
-* https://github.com/tensorflow/networking/blob/e1c7ae09923293f9cce5eba0a159e75993b793be/third_party/seastar.BUILD
-* https://github.com/shanshanpt/seastar_example
 * https://github.com/utah-scs/splinter
 * lightbits
 
