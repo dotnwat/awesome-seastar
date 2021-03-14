@@ -27,26 +27,7 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 
 - [Messaging passing](http://seastar.io/message-passing/) : A design for sharing information between CPU cores without time-consuming locking.
 
-# Projects
-*Systems and projects using Seastar*
-
-* [Ceph](https://github.com/ceph/ceph)
-** https://github.com/ceph/ceph/tree/master/src/crimson
-** https://www.usenix.org/conference/vault20/presentation/just
-* [CPV web framework](https://github.com/cpv-project/cpv-framework)
-* [CPV CQL driver](https://github.com/cpv-project/cpv-cql-driver)
-* [K2](https://github.com/futurewei-cloud/chogori-platform)
-* [Parquet4Seastar](https://github.com/michoecho/parquet4seastar)
-* [Pedis](https://github.com/fastio/1store)
-* [Redpanda](https://github.com/vectorizedio/redpanda/) drop-in replacement Apache Kafka designed for modern hardware
-* [Scylladb](https://github.com/scylladb/scylla) API-compatible with Apache Cassandra and Amazon DynamoDB
-* [Shredder](https://github.com/utah-scs/shredder)
-* [Nanoservices](https://github.com/utah-scs/nanoservices)
-
-## SMF RPC
-[SMF](https://github.com/smfrpc/smf) is a new RPC framework built for microseconds latencies using the seastar framework.
-
-# Resource
+# Learning
 
 ## Official tutorial
 https://github.com/scylladb/seastar/blob/master/doc/tutorial.md
@@ -61,6 +42,23 @@ These articles are written by [Noah Watkins](https://twitter.com/dotnwat), a Pri
 
 ## Build a message-oriented middleware using seastar
 [Rolling your own MOM or how I did it](https://dev.to/cppchedy/rolling-out-your-own-mom-or-how-i-did-it-general-introduction-3j20) is a series written to document the architecture and messaging model of the message-oriented middleware MOZA writting using c++17 and the framework seastar.
+
+# Projects
+*Systems and projects using Seastar*
+
+* [Ceph](https://github.com/ceph/ceph)
+    * https://github.com/ceph/ceph/tree/master/src/crimson
+    * https://www.usenix.org/conference/vault20/presentation/just
+* [CPV web framework](https://github.com/cpv-project/cpv-framework)
+* [CPV CQL driver](https://github.com/cpv-project/cpv-cql-driver)
+* [K2](https://github.com/futurewei-cloud/chogori-platform)
+* [Nanoservices](https://github.com/utah-scs/nanoservices)
+* [Parquet4Seastar](https://github.com/michoecho/parquet4seastar)
+* [Pedis](https://github.com/fastio/1store)
+* [Redpanda](https://github.com/vectorizedio/redpanda/) drop-in replacement Apache Kafka designed for modern hardware
+* [Scylladb](https://github.com/scylladb/scylla) API-compatible with Apache Cassandra and Amazon DynamoDB
+* [Shredder](https://github.com/utah-scs/shredder)
+* [SMF](https://github.com/smfrpc/smf) is a new RPC framework built for microseconds latencies using the seastar framework.
 
 # Contributors
 
