@@ -41,7 +41,7 @@ https://github.com/scylladb/seastar/blob/master/doc/tutorial.md
 These articles are written by [Noah Watkins](https://twitter.com/dotnwat), a Principal Architect at Vectorized and the initiator of this list, who spent the last couple of years working on products using Seastar.
 
 ## Build a message-oriented middleware using seastar
-[Rolling your own MOM or how I did it](https://dev.to/cppchedy/rolling-out-your-own-mom-or-how-i-did-it-general-introduction-3j20) is a series written to document the architecture and messaging model of the message-oriented middleware MOZA writting using c++17 and the framework seastar.
+[Rolling your own MOM or how I did it](https://dev.to/cppchedy/rolling-out-your-own-mom-or-how-i-did-it-general-introduction-3j20) is a series written to document the architecture and messaging model of the message-oriented middleware MOZA written using c++17 and the framework seastar.
 
 # Projects
 *Systems and projects using Seastar*
