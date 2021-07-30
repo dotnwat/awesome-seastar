@@ -1,6 +1,6 @@
 # Awesome Seastar [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of resources related to [Seastar](http://seastar.io), an industrial-grade C++ framework used to build high-performance server applications.
+A curated list of resources related to [Seastar](http://seastar.io), an industrial-grade C++ framework for building high-performance servers.
 
 One of the key feature of Seastar is it's event-driven nature which makes it easy for it's user to write non-blocking, asynchronous code. Moreover, Seastar architecture is based on the following points:
 
