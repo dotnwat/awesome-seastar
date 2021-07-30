@@ -59,6 +59,7 @@ These articles are written by [Noah Watkins](https://twitter.com/dotnwat), a Pri
 * [Scylladb](https://github.com/scylladb/scylla) API-compatible with Apache Cassandra and Amazon DynamoDB
 * [Shredder](https://github.com/utah-scs/shredder)
 * [SMF](https://github.com/smfrpc/smf) is a new RPC framework built for microseconds latencies using the seastar framework.
+* https://github.com/ragedb/ragedb
 
 # Contributors
 
