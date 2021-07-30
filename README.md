@@ -16,16 +16,16 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 
 *Systems and projects using Seastar*
 
-* [Ceph](https://github.com/ceph/ceph) - distributed storage system for object, block, and file
+* [Ceph](https://github.com/ceph/ceph) - Distributed storage system for object, block, and file
     * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson)
-* [CPV](https://github.com/cpv-project/cpv-framework) - web framework written in C++ and Seastar
-* [Chogori](https://github.com/futurewei-cloud/chogori-platform) - low-latency distributed OLTP database
-* [Parquet4Seastar](https://github.com/michoecho/parquet4seastar)
-* [Pedis](https://github.com/fastio/1store)
-* [Redpanda](https://github.com/vectorizedio/redpanda/) drop-in replacement Apache Kafka designed for modern hardware
-* [Scylladb](https://github.com/scylladb/scylla) API-compatible with Apache Cassandra and Amazon DynamoDB
-* [Shredder](https://github.com/utah-scs/shredder)
-* [SMF](https://github.com/smfrpc/smf) is a new RPC framework built for microseconds latencies using the seastar framework.
+* [CPV](https://github.com/cpv-project/cpv-framework) - Web framework written in C++ and Seastar
+* [Chogori](https://github.com/futurewei-cloud/chogori-platform) - Low-latency distributed OLTP database
+* [Parquet4Seastar](https://github.com/michoecho/parquet4seastar) - Parquet file format implementation for use in Seastar projects
+* [Pedis](https://github.com/fastio/1store) - Replacement for Redis written in Seastar
+* [Redpanda](https://github.com/vectorizedio/redpanda/) - Replacement Apache Kafka designed for modern hardware
+* [Scylladb](https://github.com/scylladb/scylla) - Replacement for Apache Cassandra and Amazon DynamoDB
+* [Shredder](https://github.com/utah-scs/shredder) - Research prototype for [SoCC '19 paper](https://www.cs.utah.edu/~lifeifei/papers/shredder.pdf) embedding v8 in Seastar
+* [SMF](https://github.com/smfrpc/smf) - RPC framework built for microseconds latencies using Seastar
 
 ## Learning
 
