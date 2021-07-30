@@ -29,7 +29,6 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 * [Scylladb](https://github.com/scylladb/scylla) API-compatible with Apache Cassandra and Amazon DynamoDB
 * [Shredder](https://github.com/utah-scs/shredder)
 * [SMF](https://github.com/smfrpc/smf) is a new RPC framework built for microseconds latencies using the seastar framework.
-* https://github.com/ragedb/ragedb
 
 ## Learning
 
