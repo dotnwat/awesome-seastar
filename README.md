@@ -1,10 +1,4 @@
-<div align="center">
-	<div>
-		<img width="500" src="media/awesome-seasatr.png" alt="Awesome Seastar">
-	</div>
-</div>
 
-## Content
 
 - [Projects](#projects)
 	- [SMF RPC](#smf-rpc)
