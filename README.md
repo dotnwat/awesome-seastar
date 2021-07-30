@@ -1,15 +1,6 @@
+# Awesome Seastar [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
-- [Projects](#projects)
-	- [SMF RPC](#smf-rpc)
-- [Resource](#resource)
-	- [Official tutorial](#official-tutorial)
-	- [Asynchronous Programming with Seastar](#asynchronous-programming-with-seastar)
-	- [Seastar internals](#seastar-internals)
-	- [Build a message-oriented middleware using seastar](#build-a-message-oriented-middleware-using-seastar)
-- [Contributors](#contributors)
-
-[Seastar](http://seastar.io/) is an open source c++ framework designed to help build highly-performant server application. It's used by [ScyllaDb](https://www.scylladb.com/), a high-performance NoSQL Database.
+A curated list of resources related to [Seastar](http://seastar.io), an industrial-grade C++ framework used to build high-performance server applications.
 
 One of the key feature of Seastar is it's event-driven nature which makes it easy for it's user to write non-blocking, asynchronous code. Moreover, Seastar architecture is based on the following points:
 
@@ -21,23 +12,8 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 
 - [Messaging passing](http://seastar.io/message-passing/) : A design for sharing information between CPU cores without time-consuming locking.
 
-# Learning
-
-## Official tutorial
-https://github.com/scylladb/seastar/blob/master/doc/tutorial.md
-
-## Asynchronous Programming with Seastar
-[Asynchronous Programming with Seastar](http://nadav.harel.org.il/seastar/) is a series of tutorials that covers almost all Seastar compnents along with specific ways to debug seastar programs. Another important point about this series is that it's written by two maintainers of Seastar, Nadav Har’El and Avi Kivity.
-
-## Seastar internals
-[Seastar internals](https://makedist.com/projects/seastar-internals/) is a series of deep dives into various components found in the Seastar framework such as Seastar smart pointers, temporary buffer, and the gate abstraction.
-
-These articles are written by [Noah Watkins](https://twitter.com/dotnwat), a Principal Architect at Vectorized and the initiator of this list, who spent the last couple of years working on products using Seastar.
-
-## Build a message-oriented middleware using seastar
-[Rolling your own MOM or how I did it](https://dev.to/cppchedy/rolling-out-your-own-mom-or-how-i-did-it-general-introduction-3j20) is a series written to document the architecture and messaging model of the message-oriented middleware MOZA written using c++17 and the framework seastar.
-
 # Projects
+
 *Systems and projects using Seastar*
 
 * [Ceph](https://github.com/ceph/ceph)
@@ -54,6 +30,22 @@ These articles are written by [Noah Watkins](https://twitter.com/dotnwat), a Pri
 * [Shredder](https://github.com/utah-scs/shredder)
 * [SMF](https://github.com/smfrpc/smf) is a new RPC framework built for microseconds latencies using the seastar framework.
 * https://github.com/ragedb/ragedb
+
+# Learning
+
+## Official tutorial
+https://github.com/scylladb/seastar/blob/master/doc/tutorial.md
+
+## Asynchronous Programming with Seastar
+[Asynchronous Programming with Seastar](http://nadav.harel.org.il/seastar/) is a series of tutorials that covers almost all Seastar compnents along with specific ways to debug seastar programs. Another important point about this series is that it's written by two maintainers of Seastar, Nadav Har’El and Avi Kivity.
+
+## Seastar internals
+[Seastar internals](https://makedist.com/projects/seastar-internals/) is a series of deep dives into various components found in the Seastar framework such as Seastar smart pointers, temporary buffer, and the gate abstraction.
+
+These articles are written by [Noah Watkins](https://twitter.com/dotnwat), a Principal Architect at Vectorized and the initiator of this list, who spent the last couple of years working on products using Seastar.
+
+## Build a message-oriented middleware using seastar
+[Rolling your own MOM or how I did it](https://dev.to/cppchedy/rolling-out-your-own-mom-or-how-i-did-it-general-introduction-3j20) is a series written to document the architecture and messaging model of the message-oriented middleware MOZA written using c++17 and the framework seastar.
 
 # Contributors
 
