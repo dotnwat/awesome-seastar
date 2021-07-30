@@ -16,9 +16,8 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 
 *Systems and projects using Seastar*
 
-* [Ceph](https://github.com/ceph/ceph)
-    * https://github.com/ceph/ceph/tree/master/src/crimson
-    * https://www.usenix.org/conference/vault20/presentation/just
+* [Ceph](https://github.com/ceph/ceph) - distributed storage system for object, block, and file
+    * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson)
 * [CPV web framework](https://github.com/cpv-project/cpv-framework)
 * [CPV CQL driver](https://github.com/cpv-project/cpv-cql-driver)
 * [K2](https://github.com/futurewei-cloud/chogori-platform)
