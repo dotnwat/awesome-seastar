@@ -33,6 +33,8 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 
 ## Learning
 
+*Resources for learning Seastar*
+
 * [Official tutorial](https://github.com/scylladb/seastar/blob/master/doc/tutorial.md) - a comprehensive tutorial from the creators of Seastar
 * [Seastar internals](https://makedist.com/projects/seastar-internals/) - is a series of deep dives into various Seastar components
 * [Asynchronous Programming with Seastar](http://nadav.harel.org.il/seastar/) - is a series of tutorials covering Seastar compnents
