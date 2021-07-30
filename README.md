@@ -12,7 +12,7 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 
 - [Messaging passing](http://seastar.io/message-passing/) : A design for sharing information between CPU cores without time-consuming locking.
 
-# Projects
+## Projects
 
 *Systems and projects using Seastar*
 
@@ -31,7 +31,7 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
 * [SMF](https://github.com/smfrpc/smf) is a new RPC framework built for microseconds latencies using the seastar framework.
 * https://github.com/ragedb/ragedb
 
-# Learning
+## Learning
 
 ## Official tutorial
 https://github.com/scylladb/seastar/blob/master/doc/tutorial.md
