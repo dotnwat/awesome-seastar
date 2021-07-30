@@ -20,7 +20,6 @@ One of the key feature of Seastar is it's event-driven nature which makes it eas
     * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson)
 * [CPV](https://github.com/cpv-project/cpv-framework) - web framework written in C++ and Seastar
 * [Chogori](https://github.com/futurewei-cloud/chogori-platform) - low-latency distributed OLTP database
-* [Nanoservices](https://github.com/utah-scs/nanoservices)
 * [Parquet4Seastar](https://github.com/michoecho/parquet4seastar)
 * [Pedis](https://github.com/fastio/1store)
 * [Redpanda](https://github.com/vectorizedio/redpanda/) drop-in replacement Apache Kafka designed for modern hardware
