@@ -26,6 +26,7 @@ A curated list of resources related to [Seastar](http://seastar.io), an industri
 * [Seastar internals](https://makedist.com/projects/seastar-internals/) - is a series of deep dives into various Seastar components
 * [Asynchronous Programming with Seastar](http://nadav.harel.org.il/seastar/) - is a series of tutorials covering Seastar compnents
 * [Rolling your own MOM](https://dev.to/cppchedy/rolling-out-your-own-mom-or-how-i-did-it-general-introduction-3j20) - a series documenting the MOZA middleware
+* [Seabrute](https://github.com/VictorDenisov/seabrute) - a selfstudy project for learning seastar by implementing distributed password bruteforce
 
 ## Contributors
 
