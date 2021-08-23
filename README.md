@@ -11,7 +11,7 @@ A curated list of resources related to [Seastar](http://seastar.io), an industri
 * [CPV](https://github.com/cpv-project/cpv-framework) - Web framework written in C++ and Seastar
 * [Chogori](https://github.com/futurewei-cloud/chogori-platform) - Low-latency distributed OLTP database
 * [Parquet4Seastar](https://github.com/michoecho/parquet4seastar) - Parquet file format implementation for use in Seastar projects
-* [Pedis](https://github.com/fastio/1store) - Replacement for Redis written in Seastar
+* [Pedis/1store](https://github.com/fastio/1store) - Replacement for Redis written in Seastar
 * [RageDB](https://github.com/ragedb/ragedb) - In Memory Property Graph Server using the Shared Nothing design from Seastar
 * [Redpanda](https://github.com/vectorizedio/redpanda/) - Replacement Apache Kafka designed for modern hardware
 * [Scylladb](https://github.com/scylladb/scylla) - Replacement for Apache Cassandra and Amazon DynamoDB
