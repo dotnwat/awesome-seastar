@@ -17,6 +17,7 @@ A curated list of resources related to [Seastar](http://seastar.io), an industri
 * [Scylladb](https://github.com/scylladb/scylla) - Replacement for Apache Cassandra and Amazon DynamoDB
 * [Shredder](https://github.com/utah-scs/shredder) - Research prototype for [SoCC '19 paper](https://www.cs.utah.edu/~lifeifei/papers/shredder.pdf) embedding v8 in Seastar
 * [SMF](https://github.com/smfrpc/smf) - RPC framework built for microseconds latencies using Seastar
+* [SpiderDB](https://github.com/chungphb/spiderdb) - An on-disk key-value database based on a b-link tree
 
 ## Learning
 
