@@ -17,7 +17,6 @@ A curated list of resources related to [Seastar](http://seastar.io), an industri
 * [RageDB](https://github.com/ragedb/ragedb) - In Memory Property Graph Server using the Shared Nothing design from Seastar
 * [Redpanda](https://github.com/redpanda-data/redpanda/) - Replacement for Apache Kafka designed for modern hardware
 * [Scylladb](https://github.com/scylladb/scylla) - Replacement for Apache Cassandra and Amazon DynamoDB
-* [seastar-kafka-client](https://github.com/haaawk/seastar-kafka-client) - A seastar-based kafka client
 * [Shredder](https://github.com/utah-scs/shredder) - Research prototype for [SoCC '19 paper](https://www.cs.utah.edu/~lifeifei/papers/shredder.pdf) embedding v8 in Seastar
 * [SMF](https://github.com/smfrpc/smf) - RPC framework built for microseconds latencies using Seastar
 * [SpiderDB](https://github.com/chungphb/spiderdb) - An on-disk key-value database based on a b-link tree
@@ -31,6 +30,12 @@ A curated list of resources related to [Seastar](http://seastar.io), an industri
 * [Asynchronous Programming with Seastar](http://nadav.harel.org.il/seastar/) - is a series of tutorials covering Seastar compnents
 * [Rolling your own MOM](https://dev.to/cppchedy/rolling-out-your-own-mom-or-how-i-did-it-general-introduction-3j20) - a series documenting the MOZA middleware
 * [Seabrute](https://github.com/VictorDenisov/seabrute) - a selfstudy project for learning seastar by implementing distributed password bruteforce
+
+## Archived
+
+These appear to no longer exist :(
+
+* [seastar-kafka-client](https://github.com/haaawk/seastar-kafka-client) - A seastar-based kafka client
 
 ## Contributors
 
