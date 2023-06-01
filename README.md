@@ -15,7 +15,7 @@ A curated list of resources related to [Seastar](http://seastar.io), an industri
 * [Parquet4Seastar](https://github.com/michoecho/parquet4seastar) - Parquet file format implementation for use in Seastar projects
 * [Pedis/1store](https://github.com/fastio/1store) - Replacement for Redis written in Seastar
 * [RageDB](https://github.com/ragedb/ragedb) - In Memory Property Graph Server using the Shared Nothing design from Seastar
-* [Redpanda](https://github.com/vectorizedio/redpanda/) - Replacement Apache Kafka designed for modern hardware
+* [Redpanda](https://github.com/redpanda-data/redpanda/) - Replacement for Apache Kafka designed for modern hardware
 * [Scylladb](https://github.com/scylladb/scylla) - Replacement for Apache Cassandra and Amazon DynamoDB
 * [seastar-kafka-client](https://github.com/haaawk/seastar-kafka-client) - A seastar-based kafka client
 * [Shredder](https://github.com/utah-scs/shredder) - Research prototype for [SoCC '19 paper](https://www.cs.utah.edu/~lifeifei/papers/shredder.pdf) embedding v8 in Seastar
