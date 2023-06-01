@@ -10,6 +10,7 @@ A curated list of resources related to [Seastar](http://seastar.io), an industri
     * The seastar-based storage engine is called [Crimson](https://github.com/ceph/ceph/tree/master/src/crimson)
 * [CPV](https://github.com/cpv-project/cpv-framework) - Web framework written in C++ and Seastar
 * [Chogori](https://github.com/futurewei-cloud/chogori-platform) - Low-latency distributed OLTP database
+* [Lightbits](https://www.youtube.com/watch?v=kWfhVaeY2BE) - Lightbits LightOS
 * [ministun](https://github.com/nguyenminh-phuc/ministun) - RFC 8489 STUN server
 * [Parquet4Seastar](https://github.com/michoecho/parquet4seastar) - Parquet file format implementation for use in Seastar projects
 * [Pedis/1store](https://github.com/fastio/1store) - Replacement for Redis written in Seastar
