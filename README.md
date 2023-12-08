@@ -2,6 +2,12 @@
 
 A curated list of resources related to [Seastar](http://seastar.io), an industrial-grade C++ framework for building high-performance servers.
 
+## News
+
+* What's new in Seastar (infrequently released)
+  * [Issue 2 - Dec '23](https://makedist.com/posts/2023/12/01/whats-new-in-seastar-issue-2/)
+  * [Issue 1 - Apr '23](https://makedist.com/posts/2023/04/30/whats-new-in-seastar-issue-1/)
+
 ## Projects
 
 *Systems and projects using Seastar*
