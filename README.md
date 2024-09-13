@@ -8,6 +8,7 @@ A curated list of resources related to [Seastar](http://seastar.io), an industri
   * [Issue 1 - Apr '23](https://makedist.com/posts/2023/04/30/whats-new-in-seastar-issue-1/)
   * [Issue 2 - Dec '23](https://makedist.com/posts/2023/12/01/whats-new-in-seastar-issue-2/)
   * [Issue 3 - Apr '24](https://makedist.com/posts/2024/04/22/whats-new-in-seastar-issue-3/)
+  * [Issue 4 - Sep '24](https://makedist.com/posts/2024/08/31/whats-new-in-seastar-issue-4/)
 
 ## Projects
 
