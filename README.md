@@ -12,7 +12,7 @@ A curated list of resources related to [Seastar](http://seastar.io), an industri
 
 ## Building
 
-Seastar can now be brought into a Bazel project using this https://registry.bazel.build/modules/seastar. It's as easy as adding this to your `MODULE.bazel`:
+The official build system of Seastar is CMake. But now Seastar can now be brought into a Bazel project using this https://registry.bazel.build/modules/seastar. It's as easy as adding this to your `MODULE.bazel`:
 
 ```
 bazel_dep(name = "seastar", version = "25.08.0-20250807194611-1520326e6032")
