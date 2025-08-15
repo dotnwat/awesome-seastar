@@ -10,6 +10,16 @@ A curated list of resources related to [Seastar](http://seastar.io), an industri
   * [Issue 3 - Apr '24](https://makedist.com/posts/2024/04/22/whats-new-in-seastar-issue-3/)
   * [Issue 4 - Sep '24](https://makedist.com/posts/2024/08/31/whats-new-in-seastar-issue-4/)
 
+## Building
+
+Seastar can now be brought into a Bazel project using this https://registry.bazel.build/modules/seastar. It's as easy as adding this to your `MODULE.bazel`:
+
+```
+bazel_dep(name = "seastar", version = "25.08.0-20250807194611-1520326e6032")
+```
+
+You'll still need to install several system dependencies, but this set should reduce over time. This is receipe was contributed by [Redpanda](https://github.com/redpanda-data/redpanda) which has now officially moved to a 100% Bazel build.
+
 ## Projects
 
 *Systems and projects using Seastar*
