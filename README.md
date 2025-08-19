@@ -30,13 +30,14 @@ You'll still need to install several system dependencies, but this set should re
 * [Chogori](https://github.com/futurewei-cloud/chogori-platform) - Low-latency distributed OLTP database
 * [Lightbits](https://www.youtube.com/watch?v=kWfhVaeY2BE) - Lightbits LightOS
 * [ministun](https://github.com/nguyenminh-phuc/ministun) - RFC 8489 STUN server
+* [mithril](https://github.com/salahsheikh/mithril) Client-server framework inspired by Netty
 * [Parquet4Seastar](https://github.com/michoecho/parquet4seastar) - Parquet file format implementation for use in Seastar projects
 * [Pedis/1store](https://github.com/fastio/1store) - Replacement for Redis written in Seastar
 * [RageDB](https://github.com/ragedb/ragedb) - In Memory Property Graph Server using the Shared Nothing design from Seastar
 * [Redpanda](https://github.com/redpanda-data/redpanda/) - Replacement for Apache Kafka designed for modern hardware
 * [Scylladb](https://github.com/scylladb/scylla) - Replacement for Apache Cassandra and Amazon DynamoDB
 * [Shredder](https://github.com/utah-scs/shredder) - Research prototype for [SoCC '19 paper](https://www.cs.utah.edu/~lifeifei/papers/shredder.pdf) embedding v8 in Seastar
-* [nanoservices](https://github.com/utah-scs/nanoservices) - Some relationship to [Shredder](https://github.com/utah-scs/shredder)
+  * [nanoservices](https://github.com/utah-scs/nanoservices) - Some relationship to [Shredder](https://github.com/utah-scs/shredder)
 * [SMF](https://github.com/smfrpc/smf) - RPC framework built for microseconds latencies using Seastar
 * [SpiderDB](https://github.com/chungphb/spiderdb) - An on-disk key-value database based on a b-link tree
 * [Hiactor](https://github.com/alibaba/hiactor) - Hiactor is a distributed actor framework.
