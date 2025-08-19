@@ -36,6 +36,7 @@ You'll still need to install several system dependencies, but this set should re
 * [Redpanda](https://github.com/redpanda-data/redpanda/) - Replacement for Apache Kafka designed for modern hardware
 * [Scylladb](https://github.com/scylladb/scylla) - Replacement for Apache Cassandra and Amazon DynamoDB
 * [Shredder](https://github.com/utah-scs/shredder) - Research prototype for [SoCC '19 paper](https://www.cs.utah.edu/~lifeifei/papers/shredder.pdf) embedding v8 in Seastar
+* [nanoservices](https://github.com/utah-scs/nanoservices) - Some relationship to [Shredder](https://github.com/utah-scs/shredder)
 * [SMF](https://github.com/smfrpc/smf) - RPC framework built for microseconds latencies using Seastar
 * [SpiderDB](https://github.com/chungphb/spiderdb) - An on-disk key-value database based on a b-link tree
 * [Hiactor](https://github.com/alibaba/hiactor) - Hiactor is a distributed actor framework.
