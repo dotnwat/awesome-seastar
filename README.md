@@ -10,7 +10,7 @@ A curated list of resources related to [Seastar](http://seastar.io), an industri
   * [Issue 3 - Apr '24](https://makedist.com/posts/2024/04/22/whats-new-in-seastar-issue-3/)
   * [Issue 4 - Sep '24](https://makedist.com/posts/2024/08/31/whats-new-in-seastar-issue-4/)
 
-## Building
+## Building with Bazel
 
 The official build system of Seastar is CMake. But now Seastar can now be brought into a Bazel project using this https://registry.bazel.build/modules/seastar. It's as easy as adding this to your `MODULE.bazel`:
 
